@@ -1,0 +1,6 @@
+{
+  "name": "Only4Aline",
+  "description": "Assistant d'offres d'emploi administratif dans les arts et la culture pour Aline (Charleroi & 50km).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
